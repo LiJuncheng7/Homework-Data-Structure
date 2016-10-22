@@ -1,0 +1,20 @@
+#root directory
+*.sln
+*.VC.db
+
+#Debug
+*.exe
+*.ilk
+*.pdb
+
+*.tlog
+*.obj
+*.log
+*.idb
+*.pdb
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opendb
+.vs/
